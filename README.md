@@ -1,5 +1,5 @@
 # github-profile-viewer
-shreyas-gitpeek
+
 A Flask-based web application that allows users to view, compare, and download GitHub profile information. Built using Python, HTML, CSS, and Flask, this tool leverages the **GitHub API** to fetch and display public data.
 
 ## Features
